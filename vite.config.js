@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [tailwindcss()],
-  base: '/landingpage-urbanfood/', 
+  base: '/landingpage-brudis/', 
 })
