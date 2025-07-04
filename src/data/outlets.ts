@@ -6,7 +6,7 @@ export const outlets: FoodOutlet[] = [
   { 
     id: '1', 
     name: 'Schweiz', 
-    description: '🇨🇭 Pinot Noir & Chasselas', 
+    description: 'Pinot Noir & Chasselas', 
     cuisineType: 'Wein', 
     isOpen: true, 
     orderUrl 
@@ -14,7 +14,7 @@ export const outlets: FoodOutlet[] = [
   { 
     id: '2', 
     name: 'Italien', 
-    description: '🇮🇹 Chianti & Prosecco', 
+    description: 'Chianti & Prosecco', 
     cuisineType: 'Wein', 
     isOpen: true, 
     orderUrl 
@@ -22,7 +22,7 @@ export const outlets: FoodOutlet[] = [
   { 
     id: '3', 
     name: 'Österreich', 
-    description: '🇦🇹 Grüner Veltliner & Riesling', 
+    description: 'Grüner Veltliner & Riesling', 
     cuisineType: 'Wein', 
     isOpen: true, 
     orderUrl 
@@ -30,7 +30,7 @@ export const outlets: FoodOutlet[] = [
   { 
     id: '4', 
     name: 'Spanien', 
-    description: '🇪🇸 Rioja & Cava', 
+    description: 'Rioja & Cava', 
     cuisineType: 'Wein', 
     isOpen: true, 
     orderUrl 
@@ -38,7 +38,7 @@ export const outlets: FoodOutlet[] = [
   { 
     id: '5', 
     name: 'Südafrika', 
-    description: '🇿🇦 Pinotage & Chenin Blanc', 
+    description: 'Pinotage & Chenin Blanc', 
     cuisineType: 'Wein', 
     isOpen: true, 
     orderUrl 
@@ -46,7 +46,7 @@ export const outlets: FoodOutlet[] = [
   { 
     id: '6', 
     name: 'Argentinien', 
-    description: '🇦🇷 Malbec & Torrontés', 
+    description: 'Malbec & Torrontés', 
     cuisineType: 'Wein', 
     isOpen: true, 
     orderUrl 
@@ -54,15 +54,15 @@ export const outlets: FoodOutlet[] = [
   { 
     id: '7', 
     name: 'Frankreich', 
-    description: '🇫🇷 Bordeaux & Champagne', 
+    description: 'Bordeaux & Champagne', 
     cuisineType: 'Wein', 
     isOpen: true, 
     orderUrl 
-  },
+    },
   { 
     id: '8', 
     name: 'Chile', 
-    description: '🇨🇱 Carménère & Sauvignon Blanc', 
+    description: 'Carménère & Sauvignon Blanc', 
     cuisineType: 'Wein', 
     isOpen: true, 
     orderUrl 
