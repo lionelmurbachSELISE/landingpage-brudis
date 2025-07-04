@@ -7,7 +7,7 @@ import logoWeiss from './assets/logo-weiss.png';
 
 function App() {
   return (
-    <div className="min-h-screen bg-black py-4 px-1 flex flex-col justify-between w-full max-w-full overflow-x-hidden box-border">
+    <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 py-4 px-1 flex flex-col justify-between w-full max-w-full overflow-x-hidden box-border">
       <div className="w-full max-w-full overflow-x-hidden">
         <header className="w-full flex flex-col items-center justify-center mb-4">
           <img src={logoWeiss} alt="Urbanfood Logo" className="h-16 md:h-20" style={{ objectFit: 'contain' }} />
