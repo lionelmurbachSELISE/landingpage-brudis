@@ -33,7 +33,7 @@ function App() {
         </main>
       </div>
       <footer className="w-full flex flex-row items-center justify-center gap-2 mt-4 mb-2 max-w-full overflow-x-hidden relative z-20">
-        <span className="text-gray-200 text-base font-bold drop-shadow-md whitespace-nowrap">Self-Ordering by</span>
+        <span className="text-gray-200 text-base font-bold drop-shadow-md whitespace-nowrap pl-3">Self-Ordering by</span>
         <img src={orderMonkeyLogo} alt="Order Monkey Logo" className="h-16 md:h-20" style={{ objectFit: 'contain', filter: 'grayscale(0.3) brightness(0.85)' }} />
       </footer>
     </div>
