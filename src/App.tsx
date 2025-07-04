@@ -24,6 +24,7 @@ function App() {
               <span className="text-lg md:text-xl font-bold text-white text-center mb-2">Bitte wähle das Herkunftsland des Weins:</span>
               <span className="block w-16 h-1 rounded-full bg-white mt-2"></span>
             </div>
+          <div className="mt-8"></div>
           <div className="grid grid-cols-2 gap-5 w-full max-w-xs mx-auto overflow-x-hidden">
             {outlets.map((outlet) => (
               <OutletCard key={outlet.id} outlet={outlet} />
